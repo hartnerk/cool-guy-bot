@@ -31,7 +31,7 @@ function postMessage() {
 
   body = {
     "bot_id" : botID,
-    "text" : 'You are talking to local'
+    "text" : 'You are talking to the local guy'
   };
 
   console.log('sending ' + botResponse + ' to ' + botID);
